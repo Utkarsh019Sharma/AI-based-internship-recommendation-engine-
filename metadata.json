@@ -1,0 +1,8 @@
+{
+  "name": "AI Internship Recommender",
+  "description": "A frontend for an AI-based internship recommendation engine, featuring a hybrid model simulation and real-time skill gap analysis with AI-powered learning plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
